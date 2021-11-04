@@ -1,0 +1,21 @@
+{
+  "name": "jayjays",
+  "version": "0.0.0",
+  "description": "My personal Discord bot, JayJay, rewritten in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "author": "Jacob Kerr",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.24.0",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0"
+  }
+}
