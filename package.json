@@ -10,8 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "."
+    "url": "git+https://github.com/jakejack13/JayJayS"
   },
+  "homepage": "https://github.com/jakejack13/JayJayS#readme",
   "author": "Jacob Kerr",
   "license": "ISC",
   "dependencies": {
