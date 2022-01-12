@@ -1,0 +1,8 @@
+{
+    "commands": [
+        {
+            "name": "hello",
+            "description": "Replies with a hello"
+        }
+    ]
+}
